@@ -3,7 +3,7 @@
 ## I'm a passionate software developer!!
 
 - 🔭 I am interested in learning new technologies.
-- 🌱 I’m currently learning Reactjs, Nextjs and Redux.
+- 🌱 I’m currently learning Reactjs,Redux and cesiumjs.
 - 👯 I’m looking to collaborate with other software developers.
 - 🥅 2021 Goals: Learn more and develop my skills.
 - ⚡ Fun fact: I love to play cricket.
