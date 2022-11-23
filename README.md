@@ -1,6 +1,6 @@
 ### Hi there, I'm Masum 👋
 
-## I'm a passionate Web GIS Developer || Cesium Developer || React!!
+## I'm a passionate Web GIS Developer || Cesium Developer || React Developer !!
 
 - 🔭 I am interested in learning gis technologies.
 - 🌱 I’m currently learning Reactjs,Redux and cesiumjs.
