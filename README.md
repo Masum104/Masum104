@@ -1,11 +1,11 @@
 ### Hi there, I'm Masum 👋
 
-## I'm a passionate software developer!!
+## I'm a passionate Web GIS Developer || Cesium Developer || React!!
 
-- 🔭 I am interested in learning new technologies.
+- 🔭 I am interested in learning gis technologies.
 - 🌱 I’m currently learning Reactjs,Redux and cesiumjs.
-- 👯 I’m looking to collaborate with other software developers.
-- 🥅 2021 Goals: Learn more and develop my skills.
+- 👯 I’m looking to collaborate with other web gis developers.
+- 🥅 Goals: Learn more and develop my skills.
 - ⚡ Fun fact: I love to play cricket.
 
 ### Connect with me:
